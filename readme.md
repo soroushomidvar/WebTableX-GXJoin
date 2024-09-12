@@ -1,6 +1,6 @@
 # GXJoin
 The resources in this repository were developed for the following paper:
-> S. Omidvartehrani, A. Dargahi Nobari, and D. Rafiei. “GXJoin: On the Generalization of Transforming Tables for Explainable Joinability”
+> GXJoin: Generalized Cell Transformations for Explainable Joinability
 
 For more details, please refer to the [paper](https://link.springer.com/chapter/10.1007/978-3-031-70626-4_9).
 
