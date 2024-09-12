@@ -2,7 +2,7 @@
 The resources in this repository were developed for the following paper:
 > S. Omidvartehrani, A. Dargahi Nobari, and D. Rafiei. “GXJoin: On the Generalization of Transforming Tables for Explainable Joinability”
 
-For more details, please refer to the [paper](TBA).
+For more details, please refer to the [paper](https://link.springer.com/chapter/10.1007/978-3-031-70626-4_9).
 
 ## Usage
 The main source files located in the `src` directory:
@@ -25,4 +25,4 @@ The main source files located in the `src` directory:
 
 If you have used the codes in this repository, kindly cite the following paper:
 
-> TBA
+> Omidvartehrani, S., Nobari, A. D., & Rafiei, D. (2024, August). GXJoin: Generalized Cell Transformations for Explainable Joinability. In European Conference on Advances in Databases and Information Systems (pp. 123-137). Cham: Springer Nature Switzerland.
