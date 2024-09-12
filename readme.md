@@ -25,4 +25,4 @@ The main source files located in the `src` directory:
 
 If you have used the codes in this repository, kindly cite the following paper:
 
-> Omidvartehrani, S., Nobari, A. D., & Rafiei, D. (2024, August). GXJoin: Generalized Cell Transformations for Explainable Joinability. In European Conference on Advances in Databases and Information Systems (pp. 123-137). Cham: Springer Nature Switzerland.
+> Omidvartehrani, Soroush, Arash Dargahi Nobari, and Davood Rafiei. "GXJoin: Generalized Cell Transformations for Explainable Joinability." European Conference on Advances in Databases and Information Systems. Cham: Springer Nature Switzerland, 2024.
