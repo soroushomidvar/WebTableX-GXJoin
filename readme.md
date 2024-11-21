@@ -1,8 +1,8 @@
 # WebTableX - GXJoin
 The resources in this repository were developed for the following papers:
-> GXJoin: Generalized Cell Transformations for Explainable Joinability
-
 > WebTableX: Efficiently Discovering Web Table Transformations Through Sampling
+
+> > GXJoin: Generalized Cell Transformations for Explainable Joinability
 
 For more details, please refer to the [GXJoin paper](https://link.springer.com/chapter/10.1007/978-3-031-70626-4_9) and WebTableX (TBD).
 
