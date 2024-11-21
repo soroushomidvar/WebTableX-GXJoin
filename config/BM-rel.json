@@ -23,7 +23,7 @@
     "units_to_extract": ["LiteralPatternBlock", "SubstrG", "SplitG", "SplitSubstrG"],
     "prioritize_equal_coverage_patterns": false,
     "extended_transformations": false,
-    "sample_size": ["100%"],
+    "sample_size": ["10%", "100%"],
     "extension_mode": "None",
     "extension_index": 2
   }
