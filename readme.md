@@ -1,9 +1,10 @@
 # GXJoin
 The resources in this repository were developed for the following papers:
 > GXJoin: Generalized Cell Transformations for Explainable Joinability
+
 > WebTableX: Efficiently Discovering Web Table Transformations Through Sampling
 
-For more details, please refer to the [GXJoin paper](https://link.springer.com/chapter/10.1007/978-3-031-70626-4_9) and [WebTableX paper](TBD).
+For more details, please refer to the [GXJoin paper](https://link.springer.com/chapter/10.1007/978-3-031-70626-4_9) and WebTableX paper (TBD).
 
 ## Usage
 The main source files located in the `src` directory:
@@ -24,7 +25,8 @@ The main source files located in the `src` directory:
 
 ## Citation
 
-If you have used the codes in this repository, kindly cite the following paper:
+If you have used the codes in this repository, we would appreciate it if you cite the relevant paper(s) for those parts:
 
-> Omidvartehrani, Soroush, Arash Dargahi Nobari, and Davood Rafiei. "GXJoin: Generalized Cell Transformations for Explainable Joinability." European Conference on Advances in Databases and Information Systems. Cham: Springer Nature Switzerland, 2024.
-> WebTableX paper: TBD
+> GXJoin: Omidvartehrani, Soroush, Arash Dargahi Nobari, and Davood Rafiei. "GXJoin: Generalized Cell Transformations for Explainable Joinability." European Conference on Advances in Databases and Information Systems. Cham: Springer Nature Switzerland, 2024.
+
+>  WebTableX paper: TBD
