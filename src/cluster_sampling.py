@@ -190,9 +190,8 @@ def uniform_sampling(df, sample_size):
         return tuples
 
     # Return the sampled indices as a list
-    #print("Representatives:")
     sampled_indices_weighted = representative_weight(sampled_indices)
-    #print(sampled_indices_weighted)
+    
     return list(sampled_indices_weighted)
 
 
