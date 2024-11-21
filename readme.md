@@ -1,4 +1,4 @@
-# GXJoin
+# GXJoin - WebTableX
 The resources in this repository were developed for the following papers:
 > GXJoin: Generalized Cell Transformations for Explainable Joinability
 
